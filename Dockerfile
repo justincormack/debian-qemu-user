@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:unstable
 
 COPY tarup.sh /usr/local/bin/
 
